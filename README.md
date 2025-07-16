@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChiRepo
+- 👋 Hi, I’m @Chinmay
 - 👀 I’m interested in: AI, ML & GO Language
 - 🌱 I’m currently mastering: Python, C
 - 💞️ I’m looking to collaborate on ...
