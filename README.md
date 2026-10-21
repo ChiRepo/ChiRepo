@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chinmay
-- 👀 I’m interested in: AI, ML & GO Language
+- 👀 I’m interested in: AI/ML/DL
 - 🌱 I’m currently mastering: Python, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Email ID- ChiRepo2006@gmail.com
